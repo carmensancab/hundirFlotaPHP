@@ -355,7 +355,7 @@
         }
         
         //volver a jugar
-        echo "<form action=\"flota01.php\">";
+        echo "<form action=\"index.php\">";
         echo "<input type=\"submit\" value=\"Jugar de Nuevo\"/></form>";          
         ?>
       
