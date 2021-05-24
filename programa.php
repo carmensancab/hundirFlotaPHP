@@ -33,7 +33,7 @@
                 
                 echo "<p>¿Quieres volver a jugar?";
                 //volver a jugar
-                echo "<form action=\"index.php\">";
+                echo "<form action=\"index.html\">";
                 echo "<input type=\"submit\" value=\"Si\"/></form>";
                 echo "<form action=\"pag3.html\">";
                 echo "<input type=\"submit\" value=\"No\"></form>"; 
